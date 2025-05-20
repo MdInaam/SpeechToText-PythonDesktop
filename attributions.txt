@@ -1,0 +1,10 @@
+Icons
+1. Music File Icon - <a href="https://www.flaticon.com/free-icons/audio-file" title="audio file icons">Audio file icons created by smashingstocks - Flaticon</a>
+2. Video File Icon - <a href="https://www.flaticon.com/free-icons/video" title="video icons">Video icons created by Tanah Basah - Flaticon</a>
+3. Close Icon - <a href="https://www.flaticon.com/free-icons/close" title="close icons">Close icons created by joalfa - Flaticon</a>
+4. Minimize Icon - <a href="https://www.flaticon.com/free-icons/minimize" title="minimize icons">Minimize icons created by Ranah Pixel Studio - Flaticon</a>
+5. App Icon - <a href="https://www.flaticon.com/free-icons/text-to-speech" title="text-to-speech icons">Text-to-speech icons created by Freepik - Flaticon</a>
+
+Fonts
+1. Poppins - https://github.com/itfoundry/Poppins
+2. DejaVu Sans - https://github.com/dejavu-fonts
